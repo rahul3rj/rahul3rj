@@ -123,7 +123,7 @@
 ###
 
 <div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/rahul3rj/rahul3rj/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/rahul3rj/rahul3rj/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/rahul3rj/rahul3rj/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
