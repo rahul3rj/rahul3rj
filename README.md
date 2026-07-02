@@ -41,23 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
@@ -70,7 +56,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">I'm a Computer Science student and Full Stack Developer passionate about building products that people genuinely enjoy using.<br>I love blending engineering with design, creating applications that are visually polished, technically scalable, and focused on solving real problems.<br>My current goal is to build impactful software while continuously improving my skills in backend architecture, AI integration, and product development.<br><br><br>What I'm Working On<br>🌍 Building GeoRadar, a real-time global intelligence command center.<br>🛍 Recently shipped Silkroad v2, a luxury digital marketplace.<br>🚀 Growing Xplode, an ambitious gaming ecosystem.<br>🏆 National Hackathon 2nd Runner-Up & Best UI/UX Award.<br>📚 Currently learning System Design & scalable backend architecture.</h6>
+<p data-importer="text" align="left">I'm a Computer Science student and Full Stack Developer passionate about building products that people genuinely enjoy using.<br>I love blending engineering with design, creating applications that are visually polished, technically scalable, and focused on solving real problems.<br>My current goal is to build impactful software while continuously improving my skills in backend architecture, AI integration, and product development.<br><br><br>What I'm Working On<br>🌍 Building GeoRadar, a real-time global intelligence command center.<br>🛍 Recently shipped Silkroad v2, a luxury digital marketplace.<br>🚀 Growing Xplode, an ambitious gaming ecosystem.<br>🏆 National Hackathon 2nd Runner-Up & Best UI/UX Award.<br>📚 Currently learning System Design & scalable backend architecture.</p>
 
 ###
 
@@ -100,11 +86,11 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="219" src="https://raw.githubusercontent.com/rahul3rj/leetcode/refs/heads/main/94371c8c524045665785bcc677718bd5.png"  />
+<img data-importer="image" align="right" height="203" src="https://raw.githubusercontent.com/rahul3rj/leetcode/refs/heads/main/94371c8c524045665785bcc677718bd5.png"  />
 
 ###
 
-<img data-importer="image" align="left" height="200" src="https://raw.githubusercontent.com/rahul3rj/leetcode/refs/heads/main/185cad6b7dd757be922821e6d8764c45.png"  />
+<img data-importer="image" align="left" height="180" src="https://raw.githubusercontent.com/rahul3rj/leetcode/refs/heads/main/185cad6b7dd757be922821e6d8764c45.png"  />
 
 ###
 
@@ -118,7 +104,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="189" src="https://raw.githubusercontent.com/rahul3rj/leetcode/refs/heads/main/27a1ee0a27837956391090da034a7efd.png"  />
+<img data-importer="image" align="left" height="150" src="https://raw.githubusercontent.com/rahul3rj/leetcode/refs/heads/main/27a1ee0a27837956391090da034a7efd.png"  />
 
 ###
 
